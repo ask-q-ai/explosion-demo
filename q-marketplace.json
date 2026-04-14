@@ -1,0 +1,16 @@
+{
+  "version": "1",
+  "kind": "visman",
+  "id": "explosion-demo",
+  "name": "Explosion Demo",
+  "description": "Standalone Explosion Demo scene package from the VisMan demo library.",
+  "entry": "scene.yaml",
+  "tags": [
+    "explosion",
+    "demo",
+    "scene"
+  ],
+  "sources": [
+    "scene.yaml"
+  ]
+}
